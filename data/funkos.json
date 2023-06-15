@@ -1,0 +1,134 @@
+[
+    {
+        "id": 0,
+        "category": "STAR WARS",
+        "title": "STORMTROOPER LIGHTSABER",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/star-wars/trooper-1.webp",
+        "hoverImg": "../../multimedia/star-wars/trooper-box.webp",
+        "isNew": true
+
+    },
+    {
+        "id": 1,
+        "category": "STAR WARS",
+        "title": "BABY YODA",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/star-wars/baby-yoda-1.webp",
+        "hoverImg": "../../multimedia/star-wars/baby-yoda-box.webp",
+        "isNew": false
+    },
+    {
+        "id": 2,
+        "category": "STAR WARS",
+        "title": "BOBBAFETH",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/star-wars/bobbafeth-1.webp",
+        "hoverImg": "../../multimedia/star-wars/bobbafeth-box.webp",
+        "isNew": false
+    },
+    {
+        "id": 3,
+        "category": "STAR WARS",
+        "title": "LUKE",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/star-wars/luke-1.webp",
+        "hoverImg": "../../multimedia/star-wars/luke-box.webp",
+        "isNew": true
+    },
+    {
+        "id": 4,
+        "category": "POKEMON",
+        "title": "CHARMANDER",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/pokemon/charmander-1.webp",
+        "hoverImg": "../../multimedia/pokemon/charmander-box.webp",
+        "isNew": false
+    },
+    {
+        "id": 5,
+        "category": "POKEMON",
+        "title": "DRAGONITE",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/pokemon/dragonite-1.webp",
+        "hoverImg": "../../multimedia/pokemon/dragonite-box.webp",
+        "isNew": false
+    },
+    {
+        "id": 6,
+        "category": "POKEMON",
+        "title": "PIDGEOTTO",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/pokemon/pidgeotto-1.webp",
+        "hoverImg": "../../multimedia/pokemon/pidgeotto-box.webp",
+        "isNew": true
+    },
+    {
+        "id": 7,
+        "category": "POKEMON",
+        "title": "PIKACHU",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/pokemon/pikachu-1.webp",
+        "hoverImg": "../../multimedia/pokemon/pikachu-box.webp",
+        "isNew": false
+    },
+    {
+        "id": 8,
+        "category": "POKEMON",
+        "title": "VULPIX",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/pokemon/vulpix-1.webp",
+        "hoverImg": "../../multimedia/pokemon/vulpix-box.webp",
+        "isNew": false
+    },
+    {
+        "id": 9,
+        "category": "HARRY POTTER",
+        "title": "HARRY",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/harry-potter/harry-1.webp",
+        "hoverImg": "../../multimedia/harry-potter/harry-box.webp",
+        "isNew": true
+    },
+    {
+        "id": 10,
+        "category": "HARRY POTTER",
+        "title": "HERMIONE",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/harry-potter/hermione-1.webp",
+        "hoverImg": "../../multimedia/harry-potter/hermione-box.webp",
+        "isNew": true
+    },
+    {
+        "id": 11,
+        "category": "HARRY POTTER",
+        "title": "LUNA",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/harry-potter/luna-1.webp",
+        "hoverImg": "../../multimedia/harry-potter/luna-box.webp",
+        "isNew": false
+    },
+    {
+        "id": 12,
+        "category": "HARRY POTTER",
+        "title": "SNAPE PATRONUS",
+        "price": 1799.99,
+        "text": "3 CUOTAS SIN INTERES",
+        "img": "../../multimedia/harry-potter/snape-patronus-1.webp",
+        "hoverImg": "../../multimedia/harry-potter/snape-patronus-box.webp",
+        "isNew": false
+    }
+    
+]
