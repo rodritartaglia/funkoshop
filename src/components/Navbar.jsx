@@ -1,5 +1,5 @@
-import React from 'react'
 import { Link } from 'wouter'
+import cartIcon from '/multimedia/icons/cart-icon.svg'
 
 function Navbar() {
   return (
@@ -15,7 +15,7 @@ function Navbar() {
           <li><Link href='/shop'>SHOP</Link></li>
           <li><Link href='/contact'>CONTACTO</Link></li>
           <li>LOGIN</li>
-          <li><img src="../multimedia/icons/cart-icon.svg" alt="" className='w-8 h-6' /></li>
+          <li><img src={cartIcon} alt="" className='w-8 h-6' /></li>
         </ul>
       </div>
     </div>
