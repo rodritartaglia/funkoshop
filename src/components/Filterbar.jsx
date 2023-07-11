@@ -1,6 +1,10 @@
-import React from 'react'
+import { useState } from 'react'
 
 function Filterbar() {
+
+    const [nuevos, setNuevos] = useState(false);
+
+
     return (
         <div className='font-semibold space-y-10'>
             <div className='flex flex-col'>
@@ -26,7 +30,14 @@ function Filterbar() {
                 FILTRAR
                 <div className='space-y-2 text-base ml-4 mt-2.5'>
                     <span className='flex gap-2 items-center'>
-                        <input type="checkbox" name="news" id="" className='w-[1rem] h-[1rem]' />
+                        <input
+                            type="checkbox"
+                            name="news"
+                            id=""
+                            className='w-[1rem] h-[1rem]'
+                            checked={nuevos}
+                            onChange={e => setNuevos(e.target.checked)}
+                        />
                         <label htmlFor="news">NUEVOS</label>
                     </span>
                     <span className='flex gap-2 items-center'>

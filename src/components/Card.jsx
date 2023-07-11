@@ -1,14 +1,14 @@
-import React from 'react';
 import { useState } from 'react';
 import { Link } from 'wouter'
 
-function Card({ key, funko }) {
+function Card({ funko }) {
 
   const [hover, setHover] = useState(false)
 
   const toggleHover = () => {
     setHover(!hover)
   }
+
 
   return (
     <Link href={`/products/${funko.id}`}>
