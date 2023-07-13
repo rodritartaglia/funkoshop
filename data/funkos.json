@@ -5,8 +5,8 @@
         "title": "STORMTROOPER LIGHTSABER",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/star-wars/trooper-1.webp",
-        "hoverImg": "/src/multimedia/star-wars/trooper-box.webp",
+        "img": "/src/assets/multimedia/star-wars/trooper-1.webp",
+        "hoverImg": "/src/assets/multimedia/star-wars/trooper-box.webp",
         "isNew": true
 
     },
@@ -16,8 +16,8 @@
         "title": "BABY YODA",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/star-wars/baby-yoda-1.webp",
-        "hoverImg": "/src/multimedia/star-wars/baby-yoda-box.webp",
+        "img": "/src/assets/multimedia/star-wars/baby-yoda-1.webp",
+        "hoverImg": "/src/assets/multimedia/star-wars/baby-yoda-box.webp",
         "isNew": false
     },
     {
@@ -26,8 +26,8 @@
         "title": "BOBBAFETH",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/star-wars/bobbafeth-1.webp",
-        "hoverImg": "/src/multimedia/star-wars/bobbafeth-box.webp",
+        "img": "/src/assets/multimedia/star-wars/bobbafeth-1.webp",
+        "hoverImg": "/src/assets/multimedia/star-wars/bobbafeth-box.webp",
         "isNew": false
     },
     {
@@ -36,8 +36,8 @@
         "title": "LUKE",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/star-wars/luke-1.webp",
-        "hoverImg": "/src/multimedia/star-wars/luke-box.webp",
+        "img": "/src/assets/multimedia/star-wars/luke-1.webp",
+        "hoverImg": "/src/assets/multimedia/star-wars/luke-box.webp",
         "isNew": true
     },
     {
@@ -46,8 +46,8 @@
         "title": "CHARMANDER",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/pokemon/charmander-1.webp",
-        "hoverImg": "/src/multimedia/pokemon/charmander-box.webp",
+        "img": "/src/assets/multimedia/pokemon/charmander-1.webp",
+        "hoverImg": "/src/assets/multimedia/pokemon/charmander-box.webp",
         "isNew": false
     },
     {
@@ -56,8 +56,8 @@
         "title": "DRAGONITE",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/pokemon/dragonite-1.webp",
-        "hoverImg": "/src/multimedia/pokemon/dragonite-box.webp",
+        "img": "/src/assets/multimedia/pokemon/dragonite-1.webp",
+        "hoverImg": "/src/assets/multimedia/pokemon/dragonite-box.webp",
         "isNew": false
     },
     {
@@ -66,8 +66,8 @@
         "title": "PIDGEOTTO",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/pokemon/pidgeotto-1.webp",
-        "hoverImg": "/src/multimedia/pokemon/pidgeotto-box.webp",
+        "img": "/src/assets/multimedia/pokemon/pidgeotto-1.webp",
+        "hoverImg": "/src/assets/multimedia/pokemon/pidgeotto-box.webp",
         "isNew": true
     },
     {
@@ -76,8 +76,8 @@
         "title": "PIKACHU",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/pokemon/pikachu-1.webp",
-        "hoverImg": "/src/multimedia/pokemon/pikachu-box.webp",
+        "img": "/src/assets/multimedia/pokemon/pikachu-1.webp",
+        "hoverImg": "/src/assets/multimedia/pokemon/pikachu-box.webp",
         "isNew": false
     },
     {
@@ -86,8 +86,8 @@
         "title": "VULPIX",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/pokemon/vulpix-1.webp",
-        "hoverImg": "/src/multimedia/pokemon/vulpix-box.webp",
+        "img": "/src/assets/multimedia/pokemon/vulpix-1.webp",
+        "hoverImg": "/src/assets/multimedia/pokemon/vulpix-box.webp",
         "isNew": false
     },
     {
@@ -96,8 +96,8 @@
         "title": "HARRY",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/harry-potter/harry-1.webp",
-        "hoverImg": "/src/multimedia/harry-potter/harry-box.webp",
+        "img": "/src/assets/multimedia/harry-potter/harry-1.webp",
+        "hoverImg": "/src/assets/multimedia/harry-potter/harry-box.webp",
         "isNew": true
     },
     {
@@ -106,8 +106,8 @@
         "title": "HERMIONE",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/harry-potter/hermione-1.webp",
-        "hoverImg": "/src/multimedia/harry-potter/hermione-box.webp",
+        "img": "/src/assets/multimedia/harry-potter/hermione-1.webp",
+        "hoverImg": "/src/assets/multimedia/harry-potter/hermione-box.webp",
         "isNew": true
     },
     {
@@ -116,8 +116,8 @@
         "title": "LUNA",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/harry-potter/luna-1.webp",
-        "hoverImg": "/src/multimedia/harry-potter/luna-box.webp",
+        "img": "/src/assets/multimedia/harry-potter/luna-1.webp",
+        "hoverImg": "/src/assets/multimedia/harry-potter/luna-box.webp",
         "isNew": false
     },
     {
@@ -126,8 +126,8 @@
         "title": "SNAPE PATRONUS",
         "price": 1799.99,
         "text": "3 CUOTAS SIN INTERES",
-        "img": "/src/multimedia/harry-potter/snape-patronus-1.webp",
-        "hoverImg": "/src/multimedia/harry-potter/snape-patronus-box.webp",
+        "img": "/src/assets/multimedia/harry-potter/snape-patronus-1.webp",
+        "hoverImg": "/src/assets/multimedia/harry-potter/snape-patronus-box.webp",
         "isNew": false
     }
     
