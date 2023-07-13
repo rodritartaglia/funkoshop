@@ -1,11 +1,11 @@
 import { useState } from 'react';
 import { useRoute } from "wouter"
-import funkos from '../../data/funkos.json'
-import Carrousel from './Carrousel'
+import funkos from '/data/funkos.json'
+import Carrousel from '/src/components/Carrousel'
 
 function SingleProduct() {
 
-    const [match, params] = useRoute("/products/:id")
+    const [, params] = useRoute("/products/:id")
     const product = funkos.find((funko) => funko.id == params.id)
 
     const [hover, setHover] = useState(false)

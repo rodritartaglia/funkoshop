@@ -1,8 +1,8 @@
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
-import Card from './Card';
-import newFunkos from "../../data/funkos.json"
+import Card from '/src/components/Card';
+import newFunkos from "/data/funkos.json"
 
 
 function Carrousel({condition, condition2}) {
@@ -16,8 +16,8 @@ function Carrousel({condition, condition2}) {
     slidesToShow: Math.min(newFunkosData.length, 3),
     slidesToScroll: 3,
     autoplay: true,
-    nextArrow: <img src="../../multimedia/NextArrow.svg" alt="" />,
-    prevArrow: <img src="../../multimedia/PrevArrow.svg" alt="" />,
+    nextArrow: <img src="/multimedia/NextArrow.svg" alt="" />,
+    prevArrow: <img src="/multimedia/PrevArrow.svg" alt="" />,
     responsive: [
       {
         breakpoint: 768,

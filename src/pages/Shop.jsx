@@ -1,6 +1,6 @@
-import Card from '../components/Card'
-import funkos from '../../data/funkos.json'
-import Filterbar from '../components/Filterbar'
+import Card from '/src/components/Card'
+import funkos from '/data/funkos.json'
+import Filterbar from '/src/components/Filterbar.jsx'
 
 function Shop() {
   return (

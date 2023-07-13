@@ -1,4 +1,3 @@
-import React from 'react'
 import { Link } from 'wouter'
 
 function Footer() {
@@ -11,7 +10,7 @@ function Footer() {
           <li>INGRESAR</li>
           <li><Link href='/contact'>CONTACTO</Link></li>
         </ul>
-        <img src="../multimedia/branding/isotype.svg" alt="" className='w-28 md:w-36 h-auto' />
+        <img src="/multimedia/branding/isotype.svg" alt="" className='w-28 md:w-36 h-auto' />
         <span className='text-sm absolute bottom-2 md:text-base left-1/2 transform -translate-x-1/2 text-center w-full'>Todos los derechos reservados 2023 - Funkoshop - Tartaglia Rodrigo</span>
       </div>
     </footer>
