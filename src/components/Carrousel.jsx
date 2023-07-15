@@ -16,8 +16,8 @@ function Carrousel({condition, condition2}) {
     slidesToShow: Math.min(newFunkosData.length, 3),
     slidesToScroll: 3,
     autoplay: true,
-    nextArrow: <img src="/multimedia/NextArrow.svg" alt="" />,
-    prevArrow: <img src="/multimedia/PrevArrow.svg" alt="" />,
+    nextArrow: <img src="/NextArrow.svg" alt="" />,
+    prevArrow: <img src="/PrevArrow.svg" alt="" />,
     responsive: [
       {
         breakpoint: 768,
