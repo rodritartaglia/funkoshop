@@ -9,7 +9,7 @@ function Filterbar() {
         <div className='font-semibold space-y-10'>
             <div className='flex flex-col'>
                 BUSCAR
-                <input type="text" placeholder='Producto o Categoria' className='max-w-[200px] border-2 border-[#30343F] p-1.5 rounded-lg text-base mt-2.5' />
+                <input type="text" placeholder='Producto o Categoria' className=' md:max-w-[200px] border-2 border-[#30343F] p-1.5 rounded-lg text-base mt-2.5' />
             </div>
             <div className='flex flex-col'>
                 ORDENAR POR
